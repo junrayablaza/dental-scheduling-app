@@ -35,9 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
----
+## Dependencies / Plugins
 
-Add-on:
 npm i react-bootstrap bootstrap
 npm i react-router-dom
 npm i lucide-react
@@ -46,6 +45,5 @@ npm i react-datetime-picker
 npm i react-toastify --save
 npm i js-cookie
 
----
-
-To start the app: npm run dev
+## Application Walkthough
+The video recording for the application walkthrough is in the root folder
